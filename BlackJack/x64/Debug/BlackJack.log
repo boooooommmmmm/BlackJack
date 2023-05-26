@@ -1,0 +1,60 @@
+﻿  AiPlayer.cpp
+E:\Projects\CPP_Project\BlackJack\BlackJack\AiPlayer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xmemory(154,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\GameObject.h(12,4): warning C4265: 'Engine::GameObject': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+E:\Projects\CPP_Project\BlackJack\BlackJack\Card.h(40,13): warning C4114: same type qualifier used more than once
+E:\Projects\CPP_Project\BlackJack\BlackJack\Card.h(40,19): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\Card.h(38,4): warning C4265: 'Game::Card': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(27,21): warning C4114: same type qualifier used more than once
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(27,27): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(30,13): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(35,17): warning C4820: 'Game::Player': '4' bytes padding added after data member 'Game::Player::state'
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(40,2): warning C4820: 'Game::Player': '4' bytes padding added after data member 'Game::Player::points'
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(24,4): warning C4265: 'Game::Player': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+E:\Projects\CPP_Project\BlackJack\BlackJack\AiPlayer.h(12,2): warning C4265: 'Game::AiPlayer': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+E:\Projects\CPP_Project\BlackJack\BlackJack\AiPlayer.cpp(3,6): warning C4471: 'PlayerActionState': a forward declaration of an unscoped enumeration must have an underlying type
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.h(26,15): warning C4514: 'Game::BattleMain::GetBattleState': unreferenced inline function has been removed
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(30,13): warning C4514: 'Game::Player::GetPoints': unreferenced inline function has been removed
+  BattleMain.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xmemory(154,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xmemory(164,5): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\GameObject.h(12,4): warning C4265: 'Engine::GameObject': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+E:\Projects\CPP_Project\BlackJack\BlackJack\Card.h(40,13): warning C4114: same type qualifier used more than once
+E:\Projects\CPP_Project\BlackJack\BlackJack\Card.h(40,19): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\Card.h(38,4): warning C4265: 'Game::Card': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(27,21): warning C4114: same type qualifier used more than once
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(27,27): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(30,13): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(35,17): warning C4820: 'Game::Player': '4' bytes padding added after data member 'Game::Player::state'
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(40,2): warning C4820: 'Game::Player': '4' bytes padding added after data member 'Game::Player::points'
+E:\Projects\CPP_Project\BlackJack\BlackJack\Player.h(24,4): warning C4265: 'Game::Player': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\atomic(106,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\atomic(359,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\atomic(375,9): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\Logger.cpp(18): warning C4114: same type qualifier used more than once
+E:\Projects\CPP_Project\BlackJack\BlackJack\Logger.cpp(18,20): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\Logger.cpp(24): warning C4114: same type qualifier used more than once
+E:\Projects\CPP_Project\BlackJack\BlackJack\Logger.cpp(24,20): warning C5266: 'const' qualifier on return type has no effect
+E:\Projects\CPP_Project\BlackJack\BlackJack\AiPlayer.h(12,2): warning C4265: 'Game::AiPlayer': class has virtual functions, but its non-trivial destructor is not virtual; instances of this class may not be destructed correctly
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(31,36): warning C4100: 'deltaTime': unreferenced formal parameter
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(104,29): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(111,21): warning C4388: '<': signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(115,49): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(116,22): warning C4388: '<': signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(118,33): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(133,21): warning C4388: '<': signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(135,19): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(137,28): warning C4365: 'argument': conversion from 'int' to 'const unsigned __int64', signed/unsigned mismatch
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.h(26,15): warning C4514: 'Game::BattleMain::GetBattleState': unreferenced inline function has been removed
+  Generating Code...
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(115): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(111): message : index '' range checked by comparison on this line
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(118): message : feeds call on this line
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(137): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(135): message : index 'maxPoints' range checked by comparison on this line
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(137): message : feeds call on this line
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(135): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(133): message : index '' range checked by comparison on this line
+E:\Projects\CPP_Project\BlackJack\BlackJack\BattleMain.cpp(135): message : feeds call on this line
+  BlackJack.vcxproj -> E:\Projects\CPP_Project\BlackJack\x64\Debug\BlackJack.exe
